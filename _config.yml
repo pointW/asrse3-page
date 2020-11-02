@@ -1,1 +1,6 @@
-theme: jekyll-theme-cayman
+title: Policy learning in SE(3) action spaces
+# description: 
+show_downloads: false
+github:
+is_project_page: false
+markdown: kramdown
