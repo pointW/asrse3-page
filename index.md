@@ -6,9 +6,28 @@ In the spatial action representation, the action space spans the space of target
 
 Our model learns to select action sequentially. q<sub>1</sub> maps the heightmap image onto a |X| X |Y| map of Q values with a maximum at a<sub>xy</sub>. Given that selection of a<sub>xy</sub>, q<sub>2</sub> predicts Q values for a<sub>theta</sub>. Similarly, q<sub>3</sub>, q<sub>4</sub>, and q<sub>5</sub> predicts Q values for a<sub>z</sub>, a<sub>phi</sub>, and a<sub>psi</sub>, respectively.
 
+## Paper
+[arXiv:2010.02798[cs.RO]](https://arxiv.org/abs/2010.02798)
+[Dian Wang](https://pointw.github.io), 
+[Colin Kohler](https://www.khoury.northeastern.edu/people/colin-kohler/), 
+[Robert Platt](http://www.ccs.neu.edu/home/rplatt/)
+
+Northeastern University
+
+```
+@article{wang2020policy,
+  title={Policy learning in SE (3) action spaces},
+  author={Wang, Dian and Kohler, Colin and Platt, Robert},
+  journal={arXiv preprint arXiv:2010.02798},
+  year={2020}
+}
+```
+
 ## Video
 
 <div style="text-align:center">
 	<iframe width="853" height="480" src="https://www.youtube.com/embed/FiHoIF1oLZs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
+## Contact
+If you have any questions, please feel free to contact [Dian Wang](https://pointw.github.io) at wang[dot]dian[at]northeastern[dot]edu.
