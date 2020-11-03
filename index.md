@@ -4,7 +4,7 @@ In the spatial action representation, the action space spans the space of target
 	<img src="img/alg_overview.png" alt="alg" height="300"/>
 </div>
 
-Our model learns to select action sequentially. q<sub>1</sub>
+Our model learns to select action sequentially. q<sub>1</sub> maps the heightmap image onto a |X| X |Y| map of Q values with a maximum at a<sub>xy</sub>. Given that selection of a<sub>xy</sub>, q<sub>2</sub> predicts Q values for a<sub>theta</sub>. Similarly, q<sub>3</sub>, q<sub>4</sub>, and q<sub>5</sub> predicts Q values for a<sub>z</sub>, a<sub>phi</sub>, and a<sub>psi</sub>, respectively.
 
 ## Video
 
