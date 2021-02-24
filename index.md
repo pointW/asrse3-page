@@ -38,9 +38,9 @@ Northeastern University
 
 ## Code
 
-Agent: https://github.com/pointW/asrse3_corl20
+Agent: [https://github.com/pointW/asrse3_corl20](https://github.com/pointW/asrse3_corl20)
 
-Environment: https://github.com/ColinKohler/helping_hands_rl_envs
+Environment: [https://github.com/ColinKohler/helping_hands_rl_envs](https://github.com/ColinKohler/helping_hands_rl_envs)
 
 ## Contact
 If you have any questions, please feel free to contact [Dian Wang](https://pointw.github.io) at wang[dot]dian[at]northeastern[dot]edu.
